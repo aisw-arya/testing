@@ -3,3 +3,4 @@ a=int(input("enter the numbe:"))
 b=int(input("enter the numbe:"))
 s=a+b
 print(s)
+print('hello')
